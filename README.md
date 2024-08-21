@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hello there 👋
+- 🔭 I’m currently working ...
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on intresting projects
+- 💬 Ask me about anything.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/georgios-koutsos/)
+- ⚡ Fun fact: Software Developer and Software Engineer are two different things 😮
 <!--
 **koutsosg/koutsosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
