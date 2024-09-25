@@ -1,5 +1,5 @@
 ## Hello there 👋
-- 🔭 I’m currently working on something... 🙃
+- 🔭 I’m currently working on [CV playground](https://github.com/koutsosg/cv-playground) 🙃
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on intresting projects
 - 💬 Ask me about anything.
