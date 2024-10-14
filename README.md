@@ -5,6 +5,8 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/georgios-koutsos/)
 - ⚡ Fun fact: Software Developer and Software Engineer are two different things 😮😱
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **koutsosg/koutsosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
