@@ -1,5 +1,5 @@
 ## Hello there 👋
-- 🔭 I’m currently working on [this project]([https://github.com/koutsosg/cv-playground](https://github.com/koutsosg/iml-network)) 🙃
+- 🔭 I’m currently working on [this7-project](https://github.com/koutsosg/iml-network) 🙃
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on intresting projects
 - 💬 Ask me about anything.
