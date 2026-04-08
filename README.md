@@ -1,5 +1,5 @@
 ## Hello there 👋
-- 🔭 I’m currently working on [this](https://github.com/koutsosg/iml-network) 🙃
+- 🔭 I’m currently working on [Sync Signal App]([https://github.com/koutsosg/iml-network](https://www.syncsignalapp.com/en/download)) 🙃
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on intresting projects
 - 💬 Ask me about anything.
